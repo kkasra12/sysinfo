@@ -1,0 +1,15 @@
+$#               : shows the number of inputs
+$1               : shows the first input
+echo             : Displaies a message
+uname            : print system information
+gcc              : GNU project C and C++ compiler
+uptime           : Tell how long the system has been running
+ps               : report a snapshot of the current processes
+sort -r          : sort lines of text files(reverse)
+head             : output the first part of files
+w                : Show who is logged on and what they are doing
+groups           : print the groups a user is in
+service          : run a System V init script
+folder[/usr/bin] : stores all installed softwares
+lshw             : list hardware
+
